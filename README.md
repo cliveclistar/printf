@@ -126,7 +126,11 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 
 **15.***
 - All the above options work well together.
+
 Authors:
-Clives Madungwe: @cliveclistar
-Abasi-ikponke Asuquo: @IamAbasz
+- Clives Madungwe: @cliveclistar
+
+- Abasi-ikponke Asuquo: @IamAbasz
+- 
 *Thank You!*
+
