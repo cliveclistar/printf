@@ -102,6 +102,7 @@ int print_non_printable(va_list types, char buffer[],
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Numbers of chars printed
+ * this code is been written and edited by Clive and Abasz
  */
 
 int print_reverse(va_list types, char buffer[],
